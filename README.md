@@ -12,7 +12,7 @@ Este repositorio contiene el Trabajo de Fin de Máster sobre Análisis y visuali
 
 1. Abre el notebook en `notebooks/` para revisar el código.
 2. Los archivos de datos están en la carpeta `data/`.
-3. Consulta el archivo `docs/variables.md` para obtener detalles sobre cada variable.
+3. Consulta el archivo `docs/notes.txt` para obtener detalles sobre cada variable.
 
 ## Contacto
 
