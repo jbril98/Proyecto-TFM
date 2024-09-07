@@ -5,7 +5,7 @@ Este repositorio contiene el Trabajo de Fin de Máster sobre Análisis y visuali
 ## Contenido
 
 - `notebook/`: Notebook con el código del proyecto.
-- `data/`: Archivos CSV con los datos utilizados en el análisis.
+- `csv_data/`: Archivos CSV con los datos utilizados en el análisis.
 - `docs/`: Notas y explicaciones sobre cada variable en los CSV.
 
 ## Instrucciones
